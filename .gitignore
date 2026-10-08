@@ -1,3 +1,8 @@
 
 # YoYo AI version control directory
 .yoyo/
+
+# Build output and per-user Xcode state
+.build/
+xcuserdata/
+.DS_Store
